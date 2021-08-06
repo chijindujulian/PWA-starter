@@ -1,0 +1,1 @@
+Tutorial starter files that demonstrates how to create a simple PWA ready by DevKaizen
